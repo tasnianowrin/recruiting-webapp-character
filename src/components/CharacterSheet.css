@@ -1,0 +1,9 @@
+.character-sheet {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  ul,li {
+    list-style-type: none;
+  }  
